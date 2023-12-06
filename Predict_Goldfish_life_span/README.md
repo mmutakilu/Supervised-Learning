@@ -1,6 +1,5 @@
 # Goldfish Lifespan Prediction
-# ![goldfishes](https://github.com/mmutakilu/Supervised-Learning/assets/112316578/e981c66f-d7c5-4943-97ac-d69bb7462fcd)
-<img src="[url_to_your_image.jpg](https://github.com/mmutakilu/Supervised-Learning/assets/112316578/e981c66f-d7c5-4943-97ac-d69bb7462fcd)" width="200">
+![goldfishes](https://github.com/mmutakilu/Supervised-Learning/assets/112316578/e981c66f-d7c5-4943-97ac-d69bb7462fcd)
 ## Overview
 Welcome to the Goldfish Lifespan Prediction Project! This project aims to predict the lifespan of goldfish using advanced exploratory data analysis (EDA) techniques and three different linear regression models: linear regression, Lasso regression, and Ridge regression. The best-performing model is deployed as a Gradio app, allowing users to interactively predict the lifespan of goldfish based on various features.
 
