@@ -48,10 +48,14 @@ More about the models' prediction can be found in the notebook of this project, 
 
 ## Project Structure
 
-- `data/`: Contains the dataset used for the project.
-- `notebooks/`: Jupyter notebooks documenting the EDA and modeling process.
-- `src/`: Source code for data processing, modeling, and any utility functions.
-- `results/`: Stores the model outputs, such as predictions and evaluation metrics.
+- `climate.csv`: Contains the dataset used for the project.
+- `weather_prediction.ipynb`: Jupyter notebooks documenting the EDA and modeling process.
+- `data_dictionary.md`: The data dictionary explaining everything about the dataset.
+
+
+# Acknowledgments
+- NASA Power Data Center for providing the climate dataset.
+
 
 ## Getting Started
 
@@ -60,4 +64,5 @@ To replicate or extend this project, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/climate-prediction.git
+   git clone https://github.com/mmutakilu/.git
+2. Explore the Jupyter notebook for detailed insights into the EDA and modeling process.
