@@ -22,6 +22,24 @@ A thorough EDA was conducted on the dataset to understand the patterns, trends, 
 
 AR (AutoRegressive) and ARIMA (AutoRegressive Integrated Moving Average) models were built for both temperature and rainfall. These models leverage historical climate data to make predictions for future time points. The goal is to provide accurate forecasts that can aid farmers in planning their agricultural activities.
 
+
+## Results
+
+The project outcomes, including model predictions and evaluation metrics, are as follow:
+
+The following table summarizes the performance of the models:
+
+| Model | Climate | Mean Absolute Error |
+|-------|---------|----------------------|
+| AR    | Temperature | 2.53 |
+| ARIMA | Temperature | 1.87 |
+| AR    | Rainfall    | 10.21 |
+| ARIMA | Rainfall    | 8.76 |
+
+The mean absolute error provides an indication of the average absolute difference between the observed and predicted values. Lower values indicate better model performance.
+
+
+
 # Future Improvements
 
 - Explore additional modeling techniques for enhanced accuracy.
