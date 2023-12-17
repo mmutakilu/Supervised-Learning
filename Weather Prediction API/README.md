@@ -64,5 +64,6 @@ To replicate or extend this project, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/mmutakilu/.git
+   git clone https://github.com/mmutakilu/Supervised-Learning/tree/11b8d13f274a8ed49e459904ca5b5ce29cf84192/Weather%20Prediction%20API
+   
 2. Explore the Jupyter notebook for detailed insights into the EDA and modeling process.
