@@ -31,10 +31,10 @@ The following table summarizes the performance of the models:
 
 | Model | Climate | Mean Absolute Error |
 |-------|---------|----------------------|
-| AR    | Temperature | 2.53 |
-| ARIMA | Temperature | 1.87 |
-| AR    | Rainfall    | 10.21 |
-| ARIMA | Rainfall    | 8.76 |
+| AR    | Temperature | 0.4874 |
+| ARIMA | Temperature | 0.4826 |
+| AR    | Rainfall    | 2.5897 |
+
 
 The mean absolute error provides an indication of the average absolute difference between the observed and predicted values. Lower values indicate better model performance.
 
