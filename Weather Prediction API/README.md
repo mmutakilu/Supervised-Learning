@@ -22,6 +22,13 @@ A thorough EDA was conducted on the dataset to understand the patterns, trends, 
 
 AR (AutoRegressive) and ARIMA (AutoRegressive Integrated Moving Average) models were built for both temperature and rainfall. These models leverage historical climate data to make predictions for future time points. The goal is to provide accurate forecasts that can aid farmers in planning their agricultural activities.
 
+# Future Improvements
+
+- Explore additional modeling techniques for enhanced accuracy.
+- Incorporate real-time weather data for more up-to-date predictions.
+- Develop a user-friendly interface for farmers to access predictions easily.
+
+
 ## Project Structure
 
 - `data/`: Contains the dataset used for the project.
