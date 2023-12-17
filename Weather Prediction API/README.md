@@ -25,7 +25,7 @@ AR (AutoRegressive) and ARIMA (AutoRegressive Integrated Moving Average) models 
 
 ## Results
 
-The project outcomes, including model predictions and evaluation metrics, are as follow:
+The project outcomes, including model predictions and evaluation metrics:
 
 The following table summarizes the performance of the models:
 
@@ -35,9 +35,8 @@ The following table summarizes the performance of the models:
 | ARIMA | Temperature | 0.4826 |
 | AR    | Rainfall    | 2.5897 |
 
-
 The mean absolute error provides an indication of the average absolute difference between the observed and predicted values. Lower values indicate better model performance.
-
+More about the models' prediction can be found in the notebook of this project, `weather_prediction.ipynb`
 
 
 # Future Improvements
